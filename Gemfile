@@ -57,7 +57,7 @@ gem 'dotenv-rails'
 gem 'faraday'
 gem 'faraday_middleware'
 
-// heroku用
+# // heroku用
 group :production do
   gem 'rails_12factor'
 end
